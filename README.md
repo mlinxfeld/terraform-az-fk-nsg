@@ -13,6 +13,10 @@ Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
 ---
 
+## Used By
+
+This module is used as a building block by the higher-level [FoggyKitchen Landing Zone Orchestrator](https://github.com/foggykitchen/foggykitchen-landing-zone-orchestrator), where it is composed into Azure, OCI, and multicloud landing zone patterns.
+
 ## 🎯 Purpose
 
 The goal of this repository is to provide a **clear, educational, and composable
